@@ -1,4 +1,5 @@
 Name		Age	Sex
 Adarshpal	43	Male
 Chandanpreet	44	Female
-Sahej    9  Female
+Sahej   	 9  	Female
+Tejas		 7	Male
